@@ -1,0 +1,12 @@
+Nome: Dirce; Idade: 123; RG: 1234512; Entrada: 12/02/2023
+Nome: Diego; Idade: 20; RG: 37.154.962-0; Entrada: 12/01/2004
+Nome: Camila; Idade: 22; RG: 85.276.390-3; Entrada: 21/08/2002
+Nome: Bruno; Idade: 19; RG: 27.465.183-6; Entrada: 04/06/2005
+Nome: Larissa; Idade: 24; RG: 09.732.854-1; Entrada: 11/02/2000
+Nome: Felipe; Idade: 21; RG: 63.948.275-7; Entrada: 30/09/2003
+Nome: Júlia; Idade: 22; RG: 49.372.104-5; Entrada: 19/05/2002
+Nome: Lucas; Idade: 20; RG: 12.784.369-2; Entrada: 08/11/2004
+Nome: Mariana; Idade: 23; RG: 34.561.729-4; Entrada: 15/07/2001
+Nome: Carol; Idade: 21; RG: 17.154.482-0; Entrada: 12/01/2004
+Nome: Rafael Simões; Idade: 21; RG: 588786408; Entrada: 21/08/2002
+Nome: Isa; Idade: 67; RG: 123456789; Entrada: 14/05/2025
